@@ -1,4 +1,4 @@
-A lab exercise for the 4F14 Course on Computer architecture and multithreading.
+A lab exercise for a Course on Computer architecture and multithreading.
 
 The aim of this exercise is to create a queue of 255 random strings. The queue is then iterated through in three threads
 simaultaneously, with one printing the queue, one deleting a random item, and one reversing the queue. This process is
